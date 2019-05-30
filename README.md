@@ -10,11 +10,11 @@
 + 4. Driver utilizado: (geckodriver.exe) - Firefox 
 +
 +  ## Enviando os arquivos para o GitHub ## 
-+ criando uma pasta clone usando "https://github.com/naimFerreira/projetodemoo.git"
-+ Enviando os arquivos do projeto para a pasta. 
++ 1. criando uma pasta clone usando "https://github.com/naimFerreira/projetodemoo.git"
++ 2. Enviando os arquivos do projeto para a pasta. 
 +
 + ##  Execução ##  
-+1. abrindo o terminal (cmd) 
-+2. caminho:"C:\projetodemoo"
-+3. Execultando o projeto com o comando ( Cucumber)  
++ 1. abrindo o terminal (cmd) 
++ 2. caminho:"C:\projetodemoo"
++ 3. Execultando o projeto com o comando ( Cucumber)  
 
